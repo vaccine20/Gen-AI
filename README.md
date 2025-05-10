@@ -1,4 +1,3 @@
 # gpt-clone
 
-### Gen-AI 프로젝트 투입 당시 작성했던 소스의 일부입니다.
-### 실제 작성 코드와 유사하게 재구성 하였습니다. 
+### Vue.js, Flask, Springboot, PostgreSQL
